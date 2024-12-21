@@ -19,6 +19,6 @@ Custom Game Engine: Built-in camera and sprite handling.
 ## How to Play:
 Clone the repository:
 
-git clone https://github.com/RoaAssaad/super-princess-peach.git
+git clone https://github.com/RoaAssaad/super-princess-peach-game.git
 Open index.html in your browser.
 Start the adventure and enjoy the game!
