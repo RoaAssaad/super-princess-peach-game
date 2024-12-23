@@ -1,4 +1,4 @@
-### Super Princess Peach 3: The Adventure Game 🚀👑
+### Super Princess Peach 3: The Adventure Game 👑
 Welcome to Super Princess Peach 3, a 2D platformer game where you help Princess Peach save her kingdom from mischievous enemies! Navigate through challenging levels, collect coins, grab power-ups, and defeat enemies to restore peace to the Blossom Kingdom.
 
 ## Features:
